@@ -1,0 +1,15 @@
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\bin\Debug\net6.0\OOPExercise3.exe
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\bin\Debug\net6.0\OOPExercise3.deps.json
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\bin\Debug\net6.0\OOPExercise3.runtimeconfig.json
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\bin\Debug\net6.0\OOPExercise3.dll
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\bin\Debug\net6.0\OOPExercise3.pdb
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\obj\Debug\net6.0\OOPExercise3.csproj.AssemblyReference.cache
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\obj\Debug\net6.0\OOPExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\obj\Debug\net6.0\OOPExercise3.AssemblyInfoInputs.cache
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\obj\Debug\net6.0\OOPExercise3.AssemblyInfo.cs
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\obj\Debug\net6.0\OOPExercise3.csproj.CoreCompileInputs.cache
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\obj\Debug\net6.0\OOPExercise3.dll
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\obj\Debug\net6.0\refint\OOPExercise3.dll
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\obj\Debug\net6.0\OOPExercise3.pdb
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\obj\Debug\net6.0\OOPExercise3.genruntimeconfig.cache
+C:\Users\sandy\Documents\GitHub\introduction-to-oop\CSharp\OOPExercise3\obj\Debug\net6.0\ref\OOPExercise3.dll

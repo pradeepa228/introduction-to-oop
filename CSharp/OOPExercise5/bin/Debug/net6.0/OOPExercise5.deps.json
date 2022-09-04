@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOPExercise5/1.0.0": {
+        "runtime": {
+          "OOPExercise5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPExercise5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
